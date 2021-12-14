@@ -8,4 +8,4 @@ Nach 3 Fehlversuchen wird das Konto *gesperrt*.
 
 
 
-![alt text](C:\Users\smeil\Downloads\Screenshot 2021-12-14 161340.jpg)
+![alt text](https://github.com/Smeili06/programmcode/blob/main/Screenshot%202021-12-14%20161340.jpg)

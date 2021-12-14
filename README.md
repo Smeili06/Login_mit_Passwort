@@ -9,3 +9,7 @@ Nach 3 Fehlversuchen wird das Konto *gesperrt*.
 
 
 ![alt text](https://github.com/Smeili06/programmcode/blob/main/Screenshot%202021-12-14%20161340.jpg)
+
+Im markierten Bereich muss das Passwort eingefügt werden.
+
+

@@ -2,7 +2,7 @@ Versuche = 3
 while Versuche > 0:
     username = input(str("Gib den Benutzernamen ein: "))
     password = input(str("Gib das Passwort ein: "))
-    if username == str("Maël1"):
+    if username == str("Smeili06"):
         if password == str("Test35"):
             print("Herzlich Willkommen")
             break

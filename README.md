@@ -12,4 +12,7 @@ Nach 3 Fehlversuchen wird das Konto *gesperrt*.
 
 Im markierten Bereich muss das Passwort eingefügt werden.
 
+![image](https://user-images.githubusercontent.com/90852785/146026620-ca5a24f6-fe72-4d7b-a7ad-6d9b8aff57c7.png)
+
+
 
